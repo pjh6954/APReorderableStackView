@@ -101,6 +101,7 @@
 				TargetAttributes = {
 					6F7D74C51BD1B46B0035E6E3 = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = 235CHBTAW4;
 						LastSwiftMigration = 0820;
 					};
 				};
@@ -248,10 +249,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 235CHBTAW4;
 				FRAMEWORK_SEARCH_PATHS = "";
 				INFOPLIST_FILE = ReorderStackView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = clayellis.ReorderStackView;
+				PRODUCT_BUNDLE_IDENTIFIER = git.example.clayellis.ReorderStackView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -261,10 +263,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 235CHBTAW4;
 				FRAMEWORK_SEARCH_PATHS = "";
 				INFOPLIST_FILE = ReorderStackView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = clayellis.ReorderStackView;
+				PRODUCT_BUNDLE_IDENTIFIER = git.example.clayellis.ReorderStackView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
